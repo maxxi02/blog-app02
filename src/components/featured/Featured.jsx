@@ -18,7 +18,7 @@ export default function Featured() {
         </div>
         <div className={styles.textContainer}>
           <h1 className={styles.postTitle}>Your Gateway to Knowledge and Inspiration!</h1>
-          <p className={styles.postDesc}>Discover a world of insightful articles, thought-provoking stories, and expert advice on our engaging blog platform. Our website is your go-to destination for all things informative and inspiring. Whether you're looking for the latest trends in technology, travel tips, lifestyle advice, or deep dives into fascinating topics, our diverse team of writers has you covered.</p>
+          <p className={styles.postDesc}>Discover a world of insightful articles, thought-provoking stories, and expert advice on our engaging blog platform. Our website is your go-to destination for all things informative and inspiring. Whether you&apos;re looking for the latest trends in technology, travel tips, lifestyle advice, or deep dives into fascinating topics, our diverse team of writers has you covered.</p>
           <button className={styles.button}>Read More</button>
         </div>
       </div>
