@@ -1,8 +1,6 @@
-import Link from 'next/link';
 import styles from './Menu.module.css';
-import Image from 'next/image';
-import MenuPosts from '../menuPosts/menuPosts';
 import MenuCategory from '../menuCategory/MenuCategory';
+import MenuPosts from '../menuPosts/MenuPosts';
 
 
 
